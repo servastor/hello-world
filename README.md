@@ -1,2 +1,2 @@
 # hello-world
-Jast test repository
+Just test repository
